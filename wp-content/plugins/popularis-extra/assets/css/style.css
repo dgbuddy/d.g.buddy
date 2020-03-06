@@ -1,0 +1,96 @@
+a, a:hover, a:focus {
+    text-decoration: none;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.popularis-elementor-menu #site-navigation {
+    border-bottom: none;
+}
+.popularis-elementor-menu #site-navigation.shrink {
+    min-height: 60px;
+    position: relative;
+    width: auto;
+    z-index: 9;
+    top: auto;
+}
+.popularis-elementor-menu .shrink .navbar-nav > li > a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-height: 80px;
+}
+.archive-product-categories {
+    opacity: 0.7;
+    font-size: 80%;
+    margin-bottom: 5px;
+}
+.archive-product-categories a {
+    margin-left: 5px;
+}
+.popularis-posts-shortcode {
+    display: block;
+    overflow: hidden;
+}
+.popularis-posts-shortcode article {
+    clear: none;
+    margin-bottom: 20px;
+}
+.page-builders .popularis-posts-shortcode article {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.popularis-posts-shortcode .col-md-6:nth-child(2n+1),
+.popularis-posts-shortcode .col-md-4:nth-child(3n+1),
+.popularis-posts-shortcode .col-md-3:nth-child(4n+1),
+.popularis-posts-shortcode .col-md-2:nth-child(6n+1) {
+    clear: left;
+}
+.popularis-posts-shortcode .f-line {
+    border: 1px solid;
+    width: 50px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.news-item.layout-two {
+    clear: both;
+    margin-bottom: 8px;
+}
+.news-item.layout-two .news-text-wrap {
+    font-size: 12px;
+}
+.news-item.layout-two img {
+    float: left;
+    max-width: 50px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+}
+.news-item.layout-two h2, .news-item.layout-two h2 a {
+    font-size: 15px;
+    line-height: 18px;
+}
+.extra-posted-date, .extra-comments-meta {
+    opacity: .7;
+    padding-right: 8px;
+    font-size: 13px;
+    font-weight: 300;
+    font-style: italic;
+}
+span.extra-comments-meta a {
+    padding-right: 3px;
+}
+
+/* Social icons widget */
+.populariswp-social-icons{display:inline-block;width:100%;list-style:none;margin:0;padding:0}.populariswp-social-icons.rotate a:hover{transform:rotate(360deg)}.populariswp-social-icons.zoomout a:hover{transform:scale(0.8)}.populariswp-social-icons.float a:hover{transform:translateY(-3px)}.populariswp-social-icons li{display:inline-block;margin:3px;padding:0}.populariswp-social-icons li a{display:block;padding:0;text-align:center}.populariswp-social-icons.style-light li a,.populariswp-social-icons.style-dark li a,.populariswp-social-icons.style-colored li a{width:55px;height:55px;line-height:55px;font-size:16px;border-radius:2px}.populariswp-social-icons.style-light li a{color:#bbb;border:1px solid #e9e9e9}.populariswp-social-icons.style-light li.populariswp-twitter a:hover{color:#46d4fe !important;border-color:#46d4fe !important}.populariswp-social-icons.style-light li.populariswp-facebook a:hover{color:#37589b !important;border-color:#37589b !important}.populariswp-social-icons.style-light li.populariswp-google-plus a:hover{color:#de5a49 !important;border-color:#de5a49 !important}.populariswp-social-icons.style-light li.populariswp-pinterest a:hover{color:#cb2027 !important;border-color:#cb2027 !important}.populariswp-social-icons.style-light li.populariswp-dribbble a:hover{color:#ea4c89 !important;border-color:#ea4c89 !important}.populariswp-social-icons.style-light li.populariswp-vk a:hover{color:#597BA5 !important;border-color:#597BA5 !important}.populariswp-social-icons.style-light li.populariswp-instagram a:hover{color:#3F729B !important;border-color:#3F729B !important}.populariswp-social-icons.style-light li.populariswp-linkedin a:hover{color:#3399CC !important;border-color:#3399CC !important}.populariswp-social-icons.style-light li.populariswp-tumblr a:hover{color:#2C4762 !important;border-color:#2C4762 !important}.populariswp-social-icons.style-light li.populariswp-github a:hover{color:#60b044 !important;border-color:#60b044 !important}.populariswp-social-icons.style-light li.populariswp-flickr a:hover{color:#fa4086 !important;border-color:#fa4086 !important}.populariswp-social-icons.style-light li.populariswp-skype a:hover{color:#00AFF0 !important;border-color:#00AFF0 !important}.populariswp-social-icons.style-light li.populariswp-trello a:hover{color:#0079bf !important;border-color:#0079bf !important}.populariswp-social-icons.style-light li.populariswp-foursquare a:hover{color:#2d5be3 !important;border-color:#2d5be3 !important}.populariswp-social-icons.style-light li.populariswp-youtube a:hover{color:#C4302B !important;border-color:#C4302B !important}.populariswp-social-icons.style-light li.populariswp-vimeo a:hover{color:#1ab7ea !important;border-color:#1ab7ea !important}.populariswp-social-icons.style-light li.populariswp-vine a:hover{color:#00bf8f !important;border-color:#00bf8f !important}.populariswp-social-icons.style-light li.populariswp-xing a:hover{color:#006464 !important;border-color:#006464 !important}.populariswp-social-icons.style-light li.populariswp-yelp a:hover{color:#C41200 !important;border-color:#C41200 !important}.populariswp-social-icons.style-light li.populariswp-tripadvisor a:hover{color:#589442 !important;border-color:#589442 !important}.populariswp-social-icons.style-light li.populariswp-rss a:hover{color:#ff7900 !important;border-color:#ff7900 !important}.populariswp-social-icons.style-light li.populariswp-email a:hover{color:#13aff0 !important;border-color:#13aff0 !important}.populariswp-social-icons.style-dark li a{color:#333;border:1px solid #333}.populariswp-social-icons.style-dark li.populariswp-twitter a:hover{color:#46d4fe !important;border-color:#46d4fe !important}.populariswp-social-icons.style-dark li.populariswp-facebook a:hover{color:#37589b !important;border-color:#37589b !important}.populariswp-social-icons.style-dark li.populariswp-google-plus a:hover{color:#de5a49 !important;border-color:#de5a49 !important}.populariswp-social-icons.style-dark li.populariswp-pinterest a:hover{color:#cb2027 !important;border-color:#cb2027 !important}.populariswp-social-icons.style-dark li.populariswp-dribbble a:hover{color:#ea4c89 !important;border-color:#ea4c89 !important}.populariswp-social-icons.style-dark li.populariswp-vk a:hover{color:#597BA5 !important;border-color:#597BA5 !important}.populariswp-social-icons.style-dark li.populariswp-instagram a:hover{color:#3F729B !important;border-color:#3F729B !important}.populariswp-social-icons.style-dark li.populariswp-linkedin a:hover{color:#3399CC !important;border-color:#3399CC !important}.populariswp-social-icons.style-dark li.populariswp-tumblr a:hover{color:#2C4762 !important;border-color:#2C4762 !important}.populariswp-social-icons.style-dark li.populariswp-github a:hover{color:#60b044 !important;border-color:#60b044 !important}.populariswp-social-icons.style-dark li.populariswp-flickr a:hover{color:#fa4086 !important;border-color:#fa4086 !important}.populariswp-social-icons.style-dark li.populariswp-skype a:hover{color:#00AFF0 !important;border-color:#00AFF0 !important}.populariswp-social-icons.style-dark li.populariswp-trello a:hover{color:#0079bf !important;border-color:#0079bf !important}.populariswp-social-icons.style-dark li.populariswp-foursquare a:hover{color:#2d5be3 !important;border-color:#2d5be3 !important}.populariswp-social-icons.style-dark li.populariswp-youtube a:hover{color:#C4302B !important;border-color:#C4302B !important}.populariswp-social-icons.style-dark li.populariswp-vimeo a:hover{color:#1ab7ea !important;border-color:#1ab7ea !important}.populariswp-social-icons.style-dark li.populariswp-vine a:hover{color:#00bf8f !important;border-color:#00bf8f !important}.populariswp-social-icons.style-dark li.populariswp-xing a:hover{color:#006464 !important;border-color:#006464 !important}.populariswp-social-icons.style-dark li.populariswp-yelp a:hover{color:#C41200 !important;border-color:#C41200 !important}.populariswp-social-icons.style-dark li.populariswp-tripadvisor a:hover{color:#589442 !important;border-color:#589442 !important}.populariswp-social-icons.style-dark li.populariswp-rss a:hover{color:#ff7900 !important;border-color:#ff7900 !important}.populariswp-social-icons.style-dark li.populariswp-email a:hover{color:#13aff0 !important;border-color:#13aff0 !important}.populariswp-social-icons.style-colored li a{color:#fff}.populariswp-social-icons.style-colored li a:hover{color:#fff}.populariswp-social-icons.style-colored li.populariswp-twitter a{background-color:#46d4fe}.populariswp-social-icons.style-colored li.populariswp-twitter a:hover{background-color:#39b4d8}.populariswp-social-icons.style-colored li.populariswp-facebook a{background-color:#37589b}.populariswp-social-icons.style-colored li.populariswp-facebook a:hover{background-color:#2d477c}.populariswp-social-icons.style-colored li.populariswp-google-plus a{background-color:#de5a49}.populariswp-social-icons.style-colored li.populariswp-google-plus a:hover{background-color:#bb4c3e}.populariswp-social-icons.style-colored li.populariswp-pinterest a{background-color:#cb2027}.populariswp-social-icons.style-colored li.populariswp-pinterest a:hover{background-color:#a91d23}.populariswp-social-icons.style-colored li.populariswp-dribbble a{background-color:#ea4c89}.populariswp-social-icons.style-colored li.populariswp-dribbble a:hover{background-color:#c64174}.populariswp-social-icons.style-colored li.populariswp-vk a{background-color:#597BA5}.populariswp-social-icons.style-colored li.populariswp-vk a:hover{background-color:#486384}.populariswp-social-icons.style-colored li.populariswp-instagram a{background-color:#3F729B}.populariswp-social-icons.style-colored li.populariswp-instagram a:hover{background-color:#315a7c}.populariswp-social-icons.style-colored li.populariswp-linkedin a{background-color:#3399CC}.populariswp-social-icons.style-colored li.populariswp-linkedin a:hover{background-color:#2678a1}.populariswp-social-icons.style-colored li.populariswp-tumblr a{background-color:#2C4762}.populariswp-social-icons.style-colored li.populariswp-tumblr a:hover{background-color:#1d3042}.populariswp-social-icons.style-colored li.populariswp-github a{background-color:#60b044}.populariswp-social-icons.style-colored li.populariswp-github a:hover{background-color:#4f9237}.populariswp-social-icons.style-colored li.populariswp-flickr a{background-color:#fa4086}.populariswp-social-icons.style-colored li.populariswp-flickr a:hover{background-color:#c63169}.populariswp-social-icons.style-colored li.populariswp-skype a{background-color:#00AFF0}.populariswp-social-icons.style-colored li.populariswp-skype a:hover{background-color:#0291c6}.populariswp-social-icons.style-colored li.populariswp-trello a{background-color:#0079bf}.populariswp-social-icons.style-colored li.populariswp-trello a:hover{background-color:#0079bf}.populariswp-social-icons.style-colored li.populariswp-foursquare a{background-color:#2d5be3}.populariswp-social-icons.style-colored li.populariswp-foursquare a:hover{background-color:#2d5be3}.populariswp-social-icons.style-colored li.populariswp-youtube a{background-color:#C4302B}.populariswp-social-icons.style-colored li.populariswp-youtube a:hover{background-color:#982420}.populariswp-social-icons.style-colored li.populariswp-vimeo a{background-color:#1ab7ea}.populariswp-social-icons.style-colored li.populariswp-vimeo a:hover{background-color:#1494bd}.populariswp-social-icons.style-colored li.populariswp-vine a{background-color:#00bf8f}.populariswp-social-icons.style-colored li.populariswp-vine a:hover{background-color:#01906c}.populariswp-social-icons.style-colored li.populariswp-xing a{background-color:#006464}.populariswp-social-icons.style-colored li.populariswp-xing a:hover{background-color:#014646}.populariswp-social-icons.style-colored li.populariswp-yelp a{background-color:#C41200}.populariswp-social-icons.style-colored li.populariswp-yelp a:hover{background-color:#940f01}.populariswp-social-icons.style-colored li.populariswp-tripadvisor a{background-color:#589442}.populariswp-social-icons.style-colored li.populariswp-tripadvisor a:hover{background-color:#426f32}.populariswp-social-icons.style-colored li.populariswp-rss a{background-color:#ff7900}.populariswp-social-icons.style-colored li.populariswp-rss a:hover{background-color:#d46603}.populariswp-social-icons.style-colored li.populariswp-email a{background-color:#13aff0}.populariswp-social-icons.style-colored li.populariswp-email a:hover{background-color:#0f8dc2}.populariswp-social-icons.style-simple li{margin:0 6px}.populariswp-social-icons.style-simple li a{font-size:16px}
+
+/* About me widget */
+.populariswp-about-me{position:relative;text-align:center}.populariswp-about-me .populariswp-about-me-avatar,.populariswp-about-me .populariswp-about-me-social{margin-top:20px}.populariswp-about-me .populariswp-about-me-avatar img{position:relative;border-radius:50%}.populariswp-about-me .populariswp-about-me-name{display:block;font-size:13px;font-weight:600;margin:16px 0 10px;text-transform:uppercase;clear:none}.populariswp-about-me .populariswp-about-me-social li{display:inline-block;margin-left:6px}.populariswp-about-me .populariswp-about-me-social li:first-child{margin-left:0}.populariswp-about-me .populariswp-about-me-social li a{display:inline-block;font-size:14px;text-align:center;width:40px;height:40px;line-height:40px;border-radius:50%}.populariswp-about-me .populariswp-about-me-social.style-color li a,.populariswp-about-me .populariswp-about-me-social.style-color li a:hover{color:#fff}.populariswp-about-me .populariswp-about-me-social.style-color li.facebook a{background-color:#37589b}.populariswp-about-me .populariswp-about-me-social.style-color li.facebook a:hover{background-color:#4e7ddd}.populariswp-about-me .populariswp-about-me-social.style-color li.twitter a{background-color:#46d4fe}.populariswp-about-me .populariswp-about-me-social.style-color li.twitter a:hover{background-color:#7ee1fe}.populariswp-about-me .populariswp-about-me-social.style-color li.google-plus a{background-color:#de5a49}.populariswp-about-me .populariswp-about-me-social.style-color li.google-plus a:hover{background-color:#fc7a69}.populariswp-about-me .populariswp-about-me-social.style-color li.instagram a{background-color:#5996c7}.populariswp-about-me .populariswp-about-me-social.style-color li.instagram a:hover{background-color:#69b4f0}.populariswp-about-me .populariswp-about-me-social.style-color li.linkedin a{background-color:#419cca}.populariswp-about-me .populariswp-about-me-social.style-color li.linkedin a:hover{background-color:#52c3fc}.populariswp-about-me .populariswp-about-me-social.style-color li.pinterest a{background-color:#cb2027}.populariswp-about-me .populariswp-about-me-social.style-color li.pinterest a:hover{background-color:#f7555c}.populariswp-about-me .populariswp-about-me-social.style-color li.youtube a{background-color:#dd4646}.populariswp-about-me .populariswp-about-me-social.style-color li.youtube a:hover{background-color:#ff6262}.populariswp-about-me .populariswp-about-me-social.style-light li a{color:#aaa;border:1px solid #e9e9e9}.populariswp-about-me .populariswp-about-me-social.style-dark li a{color:#929292;border:1px solid #555}.populariswp-about-me .populariswp-about-me-social.style-light li.facebook a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.facebook a:hover{color:#37589b;border-color:#37589b}.populariswp-about-me .populariswp-about-me-social.style-light li.twitter a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.twitter a:hover{color:#46d4fe;border-color:#46d4fe}.populariswp-about-me .populariswp-about-me-social.style-light li.google-plus a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.google-plus a:hover{color:#de5a49;border-color:#de5a49}.populariswp-about-me .populariswp-about-me-social.style-light li.instagram a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.instagram a:hover{color:#5996c7;border-color:#5996c7}.populariswp-about-me .populariswp-about-me-social.style-light li.linkedin a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.linkedin a:hover{color:#419cca;border-color:#419cca}.populariswp-about-me .populariswp-about-me-social.style-light li.pinterest a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.pinterest a:hover{color:#cb2027;border-color:#cb2027}.populariswp-about-me .populariswp-about-me-social.style-light li.youtube a:hover,.populariswp-about-me .populariswp-about-me-social.style-dark li.youtube a:hover{color:#dd4646;border-color:#dd4646}
+
+.widget ul.populariswp-social-icons li, .widget ul.populariswp-about-me-social li {
+    border-bottom: none;
+    padding: 0;
+    margin: 3px;
+}
