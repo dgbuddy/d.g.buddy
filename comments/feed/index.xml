@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="/https://dgbuddy.github.io/d.g.buddy/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dgbuddy.github.io/d.g.buddy</link>
+	<atom:link href="https://www.dgbuddy.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.dgbuddy.com</link>
 	<description>Communications and Events</description>
 	<lastBuildDate>Fri, 21 Feb 2020 15:51:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,10 +20,10 @@
 			<item>
 				<title>
 				Comment on Hello world! by A WordPress Commenter				</title>
-				<link>/https://dgbuddy.github.io/d.g.buddy/2020/02/21/hello-world/#comment-1</link>
+				<link>https://www.dgbuddy.com/2020/02/21/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 21 Feb 2020 15:51:04 +0000</pubDate>
-		<guid isPermaLink="false">/https://dgbuddy.github.io/d.g.buddy/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://www.dgbuddy.com/?p=1#comment-1</guid>
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>

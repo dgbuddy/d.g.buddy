@@ -9,8 +9,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="/https://dgbuddy.github.io/d.g.buddy/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dgbuddy.github.io/d.g.buddy</link>
+	<atom:link href="https://www.dgbuddy.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.dgbuddy.com</link>
 	<description>Communications and Events</description>
 	<lastBuildDate>Fri, 21 Feb 2020 15:51:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 <image>
-	<url>/https://dgbuddy.github.io/d.g.buddy/wp-content/uploads/2020/03/cropped-DGbuddy-final-32x32.png</url>
+	<url>https://www.dgbuddy.com/wp-content/uploads/2020/03/cropped-DGbuddy-final-32x32.png</url>
 	<title></title>
-	<link>/https://dgbuddy.github.io/d.g.buddy</link>
+	<link>https://www.dgbuddy.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/https://dgbuddy.github.io/d.g.buddy/2020/02/21/hello-world/</link>
-				<comments>/https://dgbuddy.github.io/d.g.buddy/2020/02/21/hello-world/#comments</comments>
+		<link>https://www.dgbuddy.com/2020/02/21/hello-world/</link>
+				<comments>https://www.dgbuddy.com/2020/02/21/hello-world/#comments</comments>
 				<pubDate>Fri, 21 Feb 2020 15:51:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/https://dgbuddy.github.io/d.g.buddy/?p=1</guid>
+		<guid isPermaLink="false">https://www.dgbuddy.com/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/https://dgbuddy.github.io/d.g.buddy/2020/02/21/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://www.dgbuddy.com/2020/02/21/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>
