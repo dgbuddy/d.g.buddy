@@ -180,11 +180,13 @@ body{
 }
 .about-page .about-text img{
     display: block;
-    width: 60%;
+    width: 50%;
+    margin: 0px auto;
 }
 .about-page .about-text .at-left{
     position: relative;
-    margin: 18px -15vh 26px 262px;
+    margin: 0px auto;
+    width: 100%;
 }
 .about-page .about-text .at-right{
     position: relative;
