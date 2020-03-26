@@ -278,7 +278,7 @@ body{
 }
 .theme-page .theme-text .theme-main{
     border-bottom: 20px solid #2c2b2d;
-    padding-bottom: 3%;
+    padding-bottom: 0%;
 }
 .theme-page .theme-text .theme-main p{
     color: #f45a28;
@@ -1046,7 +1046,7 @@ a,button,input,textarea{-webkit-tap-highlight-color:transparent;-moz-transition:
 /*底部*/
 .d_footer{
     background-color: rgba(167, 41, 0, 0.5);
-    height: 29vh;
+    height: 33vh;
     position: absolute;
     width: 100%;
     z-index: 99;
